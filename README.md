@@ -1,11 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on FlightGear projects
-- 🌱 I’m currently learning Java, JavaScript, C#  
-
-## Don't know what to write here
-
-
 <!--
 **Thilo277/Thilo277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
